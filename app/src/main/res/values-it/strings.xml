@@ -41,9 +41,9 @@
   <string name="interval_6_hour">6 ore</string>
   <string name="interval_12_hour">12 ore</string>
   <string name="weather_tile_title">Meteo</string>
-  <string name="weather_icon_pack_title">Pacchetto icone meteo</string>
-  <string name="weather_icon_pack_playstore">Trova pacchetto icone</string>
+  <string name="weather_icon_pack_title">Pack icone condizioni</string>
+  <string name="weather_icon_pack_playstore">Scegli pacchetto icone</string>
   <string name="service_disabled">Disabilitato</string>
   <string name="service_error">Errore</string>
-  <string name="last_update_time">Ora ultimo aggiornamento</string>
+  <string name="last_update_time">Data ultima modifica</string>
 </resources>
