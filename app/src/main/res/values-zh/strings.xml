@@ -39,26 +39,26 @@
   <string name="interval_2_hour">2 小时</string>
   <string name="interval_4_hour">4 小时</string>
   <string name="interval_6_hour">6 小时</string>
-  <string name="interval_12_hour">12 hours</string>
-  <string name="weather_tile_title">Weather</string>
+  <string name="interval_12_hour">12 小时</string>
+  <string name="weather_tile_title">天气</string>
   <string name="weather_icon_pack_title">Condition icon pack</string>
   <string name="weather_icon_pack_playstore">Find icon packs</string>
-  <string name="service_disabled">Disabled</string>
-  <string name="service_error">Error</string>
-  <string name="last_update_time">Last update time</string>
-  <string name="omnijaws_service_unkown">No weather data</string>
-  <string name="omnijaws_service_error">Error loading weather data</string>
-  <string name="omnijaws_service_init">Waiting for weather data...</string>
-  <string name="omnijaws_service_progress">Updating...</string>
-  <string name="omnijaws_service_disabled">Service disabled</string>
-  <string name="weather_widget">Weather</string>
+  <string name="service_disabled">已禁用</string>
+  <string name="service_error">错误</string>
+  <string name="last_update_time">上次更新时间</string>
+  <string name="omnijaws_service_unkown">无天气数据</string>
+  <string name="omnijaws_service_error">加载天气数据时出错</string>
+  <string name="omnijaws_service_init">正在等待天气数据...</string>
+  <string name="omnijaws_service_progress">正在更新...</string>
+  <string name="omnijaws_service_disabled">服务已禁用</string>
+  <string name="weather_widget">天气</string>
   <string name="omnijaws_current_text">Now</string>
   <string name="show_background_title">Background shadow</string>
-  <string name="weather_config_title">Service settings</string>
+  <string name="weather_config_title">服务设置</string>
   <string name="weather_config_summary"></string>
   <!-- Weather - Speed units -->
-  <string name="weather_kph">kph</string>
-  <string name="weather_mph">mph</string>
+  <string name="weather_kph">公里/小时</string>
+  <string name="weather_mph">英里/小时</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
   <string name="weather_1">Tropical Storm</string>
@@ -86,7 +86,7 @@
   <string name="weather_23">Blustery</string>
   <string name="weather_24">Windy</string>
   <string name="weather_25">Cold</string>
-  <string name="weather_26">Cloudy</string>
+  <string name="weather_26">多云</string>
   <!-- Night -->
   <string name="weather_27">Mostly Cloudy</string>
   <!-- Day -->
@@ -97,7 +97,7 @@
   <string name="weather_30">Partly Cloudy</string>
   <!-- Night -->
   <string name="weather_31">Clear</string>
-  <string name="weather_32">Sunny</string>
+  <string name="weather_32">晴朗</string>
   <!-- Night -->
   <string name="weather_33">Fair</string>
   <!-- Day -->
@@ -112,7 +112,7 @@
   <string name="weather_42">Scattered Snow Showers</string>
   <string name="weather_43">Heavy Snow</string>
   <string name="weather_44">Partly Cloudy</string>
-  <string name="weather_45">Thundershowers</string>
+  <string name="weather_45">雷阵雨</string>
   <string name="weather_46">Snow Showers</string>
   <string name="weather_47">Isolated Thundershowers</string>
   <!-- Forecast unavailable -->
