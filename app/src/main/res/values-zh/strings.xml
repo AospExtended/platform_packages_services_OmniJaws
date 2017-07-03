@@ -17,103 +17,14 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="provider_title">天气提供商</string>
-  <string name="units_title">Unit</string>
-  <string name="weather_progress_title">确认位置</string>
-  <string name="weather_select_location">选择位置</string>
-  <string name="custom_location_title">自定义位置</string>
-  <string name="weather_custom_location_dialog_title">输入位置</string>
-  <string name="weather_custom_location_title">位置</string>
-  <string name="weather_custom_location_missing">设置自定义位置</string>
-  <string name="weather_retrieve_location_dialog_title">无法检索位置 ！</string>
-  <string name="weather_retrieve_location_dialog_message">网络地理位置已禁用\n\n设置一个自定义位置或启用网络位置</string>
-  <string name="weather_retrieve_location_dialog_enable_button">启用</string>
-  <string name="weather_settings_title">天气设置</string>
-  <string name="auto_update_title">自动更新</string>
-  <string name="unit_metric">Metric (\u00b0C)</string>
-  <string name="unit_imperial">Imperial (\u00b0F)</string>
-  <string name="update">更新</string>
-  <string name="enable_title">启用</string>
-  <string name="update_interval_title">更新间隔</string>
-  <string name="interval_1_hour">1 小时</string>
-  <string name="interval_2_hour">2 小时</string>
-  <string name="interval_4_hour">4 小时</string>
-  <string name="interval_6_hour">6 小时</string>
-  <string name="interval_12_hour">12 小时</string>
-  <string name="weather_tile_title">天气</string>
-  <string name="weather_icon_pack_title">Condition icon pack</string>
-  <string name="weather_icon_pack_playstore">Find icon packs</string>
-  <string name="service_disabled">已禁用</string>
-  <string name="service_error">错误</string>
-  <string name="last_update_time">上次更新时间</string>
-  <string name="omnijaws_service_unkown">无天气数据</string>
-  <string name="omnijaws_service_error">加载天气数据时出错</string>
-  <string name="omnijaws_service_init">正在等待天气数据...</string>
-  <string name="omnijaws_service_progress">正在更新...</string>
-  <string name="omnijaws_service_disabled">服务已禁用</string>
-  <string name="weather_widget">天气</string>
-  <string name="omnijaws_current_text">Now</string>
-  <string name="show_background_title">Background shadow</string>
-  <string name="weather_config_title">服务设置</string>
-  <string name="weather_config_summary"></string>
   <!-- Weather - Speed units -->
-  <string name="weather_kph">公里/小时</string>
-  <string name="weather_mph">英里/小时</string>
   <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tropical Storm</string>
-  <string name="weather_2">Hurricane</string>
-  <string name="weather_3">Severe Thunderstorms</string>
-  <string name="weather_4">Thunderstorms</string>
-  <string name="weather_5">Mixed Rain and Snow</string>
-  <string name="weather_6">Mixed Rain and Sleet</string>
-  <string name="weather_7">Mixed Snow and Sleet</string>
-  <string name="weather_8">Freezing Drizzle</string>
-  <string name="weather_9">Drizzle</string>
-  <string name="weather_10">Freezing Rain</string>
-  <string name="weather_11">Showers</string>
-  <string name="weather_12">Showers</string>
-  <string name="weather_13">Snow Flurries</string>
-  <string name="weather_14">Light Snow Showers</string>
-  <string name="weather_15">Blowing Snow</string>
-  <string name="weather_16">Snow</string>
-  <string name="weather_17">Hail</string>
-  <string name="weather_18">Sleet</string>
-  <string name="weather_19">Dust</string>
-  <string name="weather_20">Foggy</string>
-  <string name="weather_21">Haze</string>
-  <string name="weather_22">Smoky</string>
-  <string name="weather_23">Blustery</string>
-  <string name="weather_24">Windy</string>
-  <string name="weather_25">Cold</string>
-  <string name="weather_26">多云</string>
   <!-- Night -->
-  <string name="weather_27">Mostly Cloudy</string>
   <!-- Day -->
-  <string name="weather_28">Mostly Cloudy</string>
   <!-- Night -->
-  <string name="weather_29">Partly Cloudy</string>
   <!-- Day -->
-  <string name="weather_30">Partly Cloudy</string>
   <!-- Night -->
-  <string name="weather_31">Clear</string>
-  <string name="weather_32">晴朗</string>
   <!-- Night -->
-  <string name="weather_33">Fair</string>
   <!-- Day -->
-  <string name="weather_34">Fair</string>
-  <string name="weather_35">Mixed Rain and Hail</string>
-  <string name="weather_36">Hot</string>
-  <string name="weather_37">Isolated Thunderstorms</string>
-  <string name="weather_38">Scattered Thunderstorms</string>
-  <string name="weather_39">Scattered Thunderstorms</string>
-  <string name="weather_40">Scattered Showers</string>
-  <string name="weather_41">Heavy Snow</string>
-  <string name="weather_42">Scattered Snow Showers</string>
-  <string name="weather_43">Heavy Snow</string>
-  <string name="weather_44">Partly Cloudy</string>
-  <string name="weather_45">雷阵雨</string>
-  <string name="weather_46">Snow Showers</string>
-  <string name="weather_47">Isolated Thundershowers</string>
   <!-- Forecast unavailable -->
 </resources>
