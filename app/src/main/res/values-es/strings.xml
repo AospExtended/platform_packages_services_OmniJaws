@@ -31,7 +31,6 @@
   <string name="weather_settings_title">Ajustes del tiempo</string>
   <string name="auto_update_title">Actualizaciones automáticas</string>
   <string name="unit_metric">Métrico (\u00b0C)</string>
-  <string name="unit_imperial">Imperial (\u00b0F)</string>
   <string name="update">Actualizar</string>
   <string name="enable_title">Activar</string>
   <string name="update_interval_title">Intervalo de actualización</string>
@@ -44,6 +43,15 @@
   <string name="weather_icon_pack_title">Paquete de iconos de clima</string>
   <string name="weather_icon_pack_playstore">Encontrar paquetes de iconos</string>
   <string name="service_disabled">Deshabilitado</string>
-  <string name="service_error">Error</string>
   <string name="last_update_time">Última actualización</string>
+  <!-- Weather - Speed units -->
+  <!-- Weather - Weather codes -->
+  <!-- Night -->
+  <!-- Day -->
+  <!-- Night -->
+  <!-- Day -->
+  <!-- Night -->
+  <!-- Night -->
+  <!-- Day -->
+  <!-- Forecast unavailable -->
 </resources>
