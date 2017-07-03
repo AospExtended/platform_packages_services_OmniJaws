@@ -28,7 +28,6 @@
   <string name="weather_retrieve_location_dialog_title">Невозможно получить местоположение!</string>
   <string name="weather_retrieve_location_dialog_message">Определение местоположения по сети выключено.\n\nВведите местоположение вручную или включите определение местоположения по сети</string>
   <string name="weather_retrieve_location_dialog_enable_button">Включить</string>
-  <string name="weather_settings_title">Weather settings</string>
   <string name="auto_update_title">Автоматические обновления</string>
   <string name="unit_metric">Метрическая (\u00b0C)</string>
   <string name="unit_imperial">Формат (\u00b0F)</string>
@@ -55,7 +54,6 @@
   <string name="omnijaws_current_text">Сейчас</string>
   <string name="show_background_title">Тень на заднем плане</string>
   <string name="weather_config_title">Настройки сервиса</string>
-  <string name="weather_config_summary"></string>
   <!-- Weather - Speed units -->
   <string name="weather_kph">км/ч</string>
   <string name="weather_mph">миль/ч</string>
