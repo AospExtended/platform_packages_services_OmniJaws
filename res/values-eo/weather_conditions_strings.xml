@@ -19,15 +19,11 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Speed units -->
   <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_2">Uragano</string>
-  <string name="weather_16">Neĝo</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
-  <string name="weather_32">Sunplena</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Forecast unavailable -->

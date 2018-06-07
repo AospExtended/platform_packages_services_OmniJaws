@@ -18,36 +18,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Weather - Speed units -->
-  <string name="weather_kph">km/h</string>
-  <string name="weather_mph">mph</string>
   <!-- Weather - Weather codes -->
-  <string name="weather_0">Torbolín</string>
-  <string name="weather_1">Trona tropical</string>
-  <string name="weather_2">Furacán</string>
-  <string name="weather_3">Torba</string>
-  <string name="weather_4">Trones</string>
-  <string name="weather_5">Agua y ñeve</string>
-  <string name="weather_6">Agua y aguañeve</string>
-  <string name="weather_7">Ñeve y aguañeve</string>
-  <string name="weather_8">Orbayu xelao</string>
-  <string name="weather_9">Orbayu</string>
-  <string name="weather_10">Lloviu xelao</string>
-  <string name="weather_11">Lloviu</string>
-  <string name="weather_12">Lloviu</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
-  <string name="weather_29">Parc. ñuble</string>
   <!-- Day -->
-  <string name="weather_30">Parc. ñuble</string>
   <!-- Night -->
-  <string name="weather_32">Soleyero</string>
   <!-- Night -->
-  <string name="weather_33">Estenao</string>
   <!-- Day -->
-  <string name="weather_34">Estenao</string>
-  <string name="weather_35">Agua y xarazu</string>
-  <string name="weather_36">Caloroso</string>
-  <string name="weather_44">Parc. ñuble</string>
   <!-- Forecast unavailable -->
 </resources>
